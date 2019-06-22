@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="icon_gps_fixed" transform="translate(-3 -3)">
+        <path id="Trazado_1224" d="M63 63h2.333v2.333H63z" class="cls-1" data-name="Trazado 1224" transform="translate(-54.167 -54.167)"/>
+        <path id="Trazado_1225" d="M10 7.453A2.547 2.547 0 1 0 12.547 10 2.543 2.543 0 0 0 10 7.453zm5.687 1.915a5.726 5.726 0 0 0-5.056-5.056V3H9.368v1.313a5.726 5.726 0 0 0-5.055 5.055H3v1.274h1.313A5.726 5.726 0 0 0 9.368 15.7V17h1.274v-1.313a5.726 5.726 0 0 0 5.058-5.055H17V9.368zM10 14.453A4.453 4.453 0 1 1 14.453 10 4.452 4.452 0 0 1 10 14.453z" class="cls-2" data-name="Trazado 1225"/>
+    </g>
+</svg>
